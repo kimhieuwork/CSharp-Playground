@@ -1,0 +1,15 @@
+C:\Users\1\source\repos\CSharp-Playground\Hello_Yourname_Program\Hello_Yourname_Program\bin\Debug\net8.0\Hello_Yourname_Program.exe
+C:\Users\1\source\repos\CSharp-Playground\Hello_Yourname_Program\Hello_Yourname_Program\bin\Debug\net8.0\Hello_Yourname_Program.deps.json
+C:\Users\1\source\repos\CSharp-Playground\Hello_Yourname_Program\Hello_Yourname_Program\bin\Debug\net8.0\Hello_Yourname_Program.runtimeconfig.json
+C:\Users\1\source\repos\CSharp-Playground\Hello_Yourname_Program\Hello_Yourname_Program\bin\Debug\net8.0\Hello_Yourname_Program.dll
+C:\Users\1\source\repos\CSharp-Playground\Hello_Yourname_Program\Hello_Yourname_Program\bin\Debug\net8.0\Hello_Yourname_Program.pdb
+C:\Users\1\source\repos\CSharp-Playground\Hello_Yourname_Program\Hello_Yourname_Program\obj\Debug\net8.0\Hello_Yourname_Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\CSharp-Playground\Hello_Yourname_Program\Hello_Yourname_Program\obj\Debug\net8.0\Hello_Yourname_Program.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\CSharp-Playground\Hello_Yourname_Program\Hello_Yourname_Program\obj\Debug\net8.0\Hello_Yourname_Program.AssemblyInfo.cs
+C:\Users\1\source\repos\CSharp-Playground\Hello_Yourname_Program\Hello_Yourname_Program\obj\Debug\net8.0\Hello_Yourname_Program.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\CSharp-Playground\Hello_Yourname_Program\Hello_Yourname_Program\obj\Debug\net8.0\Hello_Yourname_Program.sourcelink.json
+C:\Users\1\source\repos\CSharp-Playground\Hello_Yourname_Program\Hello_Yourname_Program\obj\Debug\net8.0\Hello_Yourname_Program.dll
+C:\Users\1\source\repos\CSharp-Playground\Hello_Yourname_Program\Hello_Yourname_Program\obj\Debug\net8.0\refint\Hello_Yourname_Program.dll
+C:\Users\1\source\repos\CSharp-Playground\Hello_Yourname_Program\Hello_Yourname_Program\obj\Debug\net8.0\Hello_Yourname_Program.pdb
+C:\Users\1\source\repos\CSharp-Playground\Hello_Yourname_Program\Hello_Yourname_Program\obj\Debug\net8.0\Hello_Yourname_Program.genruntimeconfig.cache
+C:\Users\1\source\repos\CSharp-Playground\Hello_Yourname_Program\Hello_Yourname_Program\obj\Debug\net8.0\ref\Hello_Yourname_Program.dll
