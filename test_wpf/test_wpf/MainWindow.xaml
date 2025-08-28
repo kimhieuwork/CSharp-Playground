@@ -1,0 +1,19 @@
+﻿<Window x:Class="test_wpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:test_wpf"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="700"
+        Background="Aqua"
+        >
+    <Grid>
+        <Button Content="Ấn vào đây" HorizontalAlignment="Left" VerticalAlignment="Top" Height="100" Width="150" Margin="157,122,0,0" Click="Button_Click"/>
+        <TextBox x:Name="txtKyTu" HorizontalAlignment="Left" Margin="428,117,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Height="50"/>
+        <TextBox x:Name="txtSo" HorizontalAlignment="Left" Margin="428,172,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Height="50" IsReadOnly="True" Cursor="Arrow"/>
+        <Label Content="Ký tự:" HorizontalAlignment="Left" Margin="360,132,0,0" VerticalAlignment="Top"/>
+        <Label Content="Số: " HorizontalAlignment="Left" Margin="360,184,0,0" VerticalAlignment="Top"/>
+        <Label Content="Convert Text to Number using ASCII" HorizontalAlignment="Center" Margin="0,36,0,0" VerticalAlignment="Top" FontSize="38"/>
+    </Grid>
+</Window>

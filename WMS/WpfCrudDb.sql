@@ -1,0 +1,11 @@
+CREATE DATABASE WpfCrudDb;
+GO
+USE WpfCrudDb;
+GO
+CREATE TABLE Products (
+    ProductId INT PRIMARY KEY IDENTITY(1,1),
+    ProductName NVARCHAR(100) NOT NULL,
+    Price DECIMAL(18, 2) NOT NULL,
+    Quantity INT NOT NULL
+);
+GO

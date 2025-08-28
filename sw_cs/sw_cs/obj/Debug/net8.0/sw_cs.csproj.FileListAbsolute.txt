@@ -1,0 +1,14 @@
+C:\Users\1\source\repos\CSharp-Playground\sw_cs\sw_cs\obj\Debug\net8.0\sw_cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\CSharp-Playground\sw_cs\sw_cs\obj\Debug\net8.0\sw_cs.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\CSharp-Playground\sw_cs\sw_cs\obj\Debug\net8.0\sw_cs.AssemblyInfo.cs
+C:\Users\1\source\repos\CSharp-Playground\sw_cs\sw_cs\obj\Debug\net8.0\sw_cs.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\CSharp-Playground\sw_cs\sw_cs\bin\Debug\net8.0\sw_cs.exe
+C:\Users\1\source\repos\CSharp-Playground\sw_cs\sw_cs\bin\Debug\net8.0\sw_cs.deps.json
+C:\Users\1\source\repos\CSharp-Playground\sw_cs\sw_cs\bin\Debug\net8.0\sw_cs.runtimeconfig.json
+C:\Users\1\source\repos\CSharp-Playground\sw_cs\sw_cs\bin\Debug\net8.0\sw_cs.dll
+C:\Users\1\source\repos\CSharp-Playground\sw_cs\sw_cs\bin\Debug\net8.0\sw_cs.pdb
+C:\Users\1\source\repos\CSharp-Playground\sw_cs\sw_cs\obj\Debug\net8.0\sw_cs.dll
+C:\Users\1\source\repos\CSharp-Playground\sw_cs\sw_cs\obj\Debug\net8.0\refint\sw_cs.dll
+C:\Users\1\source\repos\CSharp-Playground\sw_cs\sw_cs\obj\Debug\net8.0\sw_cs.pdb
+C:\Users\1\source\repos\CSharp-Playground\sw_cs\sw_cs\obj\Debug\net8.0\sw_cs.genruntimeconfig.cache
+C:\Users\1\source\repos\CSharp-Playground\sw_cs\sw_cs\obj\Debug\net8.0\ref\sw_cs.dll

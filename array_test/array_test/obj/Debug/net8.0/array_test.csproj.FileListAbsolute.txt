@@ -1,0 +1,14 @@
+C:\Users\1\source\repos\CSharp-Playground\array_test\array_test\bin\Debug\net8.0\array_test.exe
+C:\Users\1\source\repos\CSharp-Playground\array_test\array_test\bin\Debug\net8.0\array_test.deps.json
+C:\Users\1\source\repos\CSharp-Playground\array_test\array_test\bin\Debug\net8.0\array_test.runtimeconfig.json
+C:\Users\1\source\repos\CSharp-Playground\array_test\array_test\bin\Debug\net8.0\array_test.dll
+C:\Users\1\source\repos\CSharp-Playground\array_test\array_test\bin\Debug\net8.0\array_test.pdb
+C:\Users\1\source\repos\CSharp-Playground\array_test\array_test\obj\Debug\net8.0\array_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\CSharp-Playground\array_test\array_test\obj\Debug\net8.0\array_test.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\CSharp-Playground\array_test\array_test\obj\Debug\net8.0\array_test.AssemblyInfo.cs
+C:\Users\1\source\repos\CSharp-Playground\array_test\array_test\obj\Debug\net8.0\array_test.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\CSharp-Playground\array_test\array_test\obj\Debug\net8.0\array_test.dll
+C:\Users\1\source\repos\CSharp-Playground\array_test\array_test\obj\Debug\net8.0\refint\array_test.dll
+C:\Users\1\source\repos\CSharp-Playground\array_test\array_test\obj\Debug\net8.0\array_test.pdb
+C:\Users\1\source\repos\CSharp-Playground\array_test\array_test\obj\Debug\net8.0\array_test.genruntimeconfig.cache
+C:\Users\1\source\repos\CSharp-Playground\array_test\array_test\obj\Debug\net8.0\ref\array_test.dll
