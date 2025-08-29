@@ -6,7 +6,7 @@ namespace scan_cino_a680_df
 {
     public partial class Form1 : Form
     {
-        private SerialPort serialPort;
+        private SerialPort serialPort;//= new SerialPort("COM1",115200,Parity.None,);
         private string filePath = "scanned_code.txt"; //du lieu quet duoc
         private bool isConnected = false;
         public Form1()
@@ -104,6 +104,11 @@ namespace scan_cino_a680_df
         {
             Form2 form2 = new Form2();
             form2.Show();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            txtCode.Text = "";
         }
     }
 }

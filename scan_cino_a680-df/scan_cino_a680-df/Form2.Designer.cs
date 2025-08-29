@@ -30,16 +30,16 @@
         {
             label1 = new Label();
             label2 = new Label();
-            textBox1 = new TextBox();
-            textBox2 = new TextBox();
             label3 = new Label();
-            textBox3 = new TextBox();
             label4 = new Label();
-            textBox4 = new TextBox();
             label5 = new Label();
-            textBox5 = new TextBox();
             label6 = new Label();
             button1 = new Button();
+            comboBox1 = new ComboBox();
+            comboBox2 = new ComboBox();
+            comboBox3 = new ComboBox();
+            comboBox4 = new ComboBox();
+            comboBox5 = new ComboBox();
             SuspendLayout();
             // 
             // label1
@@ -60,20 +60,6 @@
             label2.TabIndex = 1;
             label2.Text = "Port name";
             // 
-            // textBox1
-            // 
-            textBox1.Location = new Point(133, 75);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(168, 23);
-            textBox1.TabIndex = 2;
-            // 
-            // textBox2
-            // 
-            textBox2.Location = new Point(133, 124);
-            textBox2.Name = "textBox2";
-            textBox2.Size = new Size(168, 23);
-            textBox2.TabIndex = 4;
-            // 
             // label3
             // 
             label3.AutoSize = true;
@@ -82,13 +68,6 @@
             label3.Size = new Size(57, 15);
             label3.TabIndex = 3;
             label3.Text = "Baud rate";
-            // 
-            // textBox3
-            // 
-            textBox3.Location = new Point(133, 171);
-            textBox3.Name = "textBox3";
-            textBox3.Size = new Size(168, 23);
-            textBox3.TabIndex = 6;
             // 
             // label4
             // 
@@ -99,13 +78,6 @@
             label4.TabIndex = 5;
             label4.Text = "Data bits";
             // 
-            // textBox4
-            // 
-            textBox4.Location = new Point(133, 219);
-            textBox4.Name = "textBox4";
-            textBox4.Size = new Size(168, 23);
-            textBox4.TabIndex = 8;
-            // 
             // label5
             // 
             label5.AutoSize = true;
@@ -114,13 +86,6 @@
             label5.Size = new Size(47, 15);
             label5.TabIndex = 7;
             label5.Text = "Pararity";
-            // 
-            // textBox5
-            // 
-            textBox5.Location = new Point(133, 267);
-            textBox5.Name = "textBox5";
-            textBox5.Size = new Size(168, 23);
-            textBox5.TabIndex = 10;
             // 
             // label6
             // 
@@ -139,22 +104,68 @@
             button1.TabIndex = 11;
             button1.Text = "OK";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
+            // 
+            // comboBox1
+            // 
+            comboBox1.FormattingEnabled = true;
+            comboBox1.Items.AddRange(new object[] { "COM1", "COM2", "COM3", "COM4", "COM5", "COM6" });
+            comboBox1.Location = new Point(133, 70);
+            comboBox1.Name = "comboBox1";
+            comboBox1.Size = new Size(168, 23);
+            comboBox1.TabIndex = 12;
+            // 
+            // comboBox2
+            // 
+            comboBox2.FormattingEnabled = true;
+            comboBox2.Items.AddRange(new object[] { "75", "110", "134", "150", "300", "600", "1200", "1800", "2400", "4800", "7200", "9600", "14400", "19200", "38400", "57600", "115200", "128000" });
+            comboBox2.Location = new Point(133, 119);
+            comboBox2.Name = "comboBox2";
+            comboBox2.Size = new Size(168, 23);
+            comboBox2.TabIndex = 13;
+            // 
+            // comboBox3
+            // 
+            comboBox3.FormattingEnabled = true;
+            comboBox3.Items.AddRange(new object[] { "4", "5", "6", "7", "8" });
+            comboBox3.Location = new Point(133, 166);
+            comboBox3.Name = "comboBox3";
+            comboBox3.Size = new Size(168, 23);
+            comboBox3.TabIndex = 14;
+            // 
+            // comboBox4
+            // 
+            comboBox4.FormattingEnabled = true;
+            comboBox4.Items.AddRange(new object[] { "Even", "Odd", "None", "Mark", "Space" });
+            comboBox4.Location = new Point(133, 214);
+            comboBox4.Name = "comboBox4";
+            comboBox4.Size = new Size(168, 23);
+            comboBox4.TabIndex = 15;
+            // 
+            // comboBox5
+            // 
+            comboBox5.FormattingEnabled = true;
+            comboBox5.Items.AddRange(new object[] { "1", "1.5", "2" });
+            comboBox5.Location = new Point(133, 262);
+            comboBox5.Name = "comboBox5";
+            comboBox5.Size = new Size(168, 23);
+            comboBox5.TabIndex = 16;
             // 
             // Form2
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(399, 419);
+            Controls.Add(comboBox5);
+            Controls.Add(comboBox4);
+            Controls.Add(comboBox3);
+            Controls.Add(comboBox2);
+            Controls.Add(comboBox1);
             Controls.Add(button1);
-            Controls.Add(textBox5);
             Controls.Add(label6);
-            Controls.Add(textBox4);
             Controls.Add(label5);
-            Controls.Add(textBox3);
             Controls.Add(label4);
-            Controls.Add(textBox2);
             Controls.Add(label3);
-            Controls.Add(textBox1);
             Controls.Add(label2);
             Controls.Add(label1);
             Name = "Form2";
@@ -167,15 +178,15 @@
 
         private Label label1;
         private Label label2;
-        private TextBox textBox1;
-        private TextBox textBox2;
         private Label label3;
-        private TextBox textBox3;
         private Label label4;
-        private TextBox textBox4;
         private Label label5;
-        private TextBox textBox5;
         private Label label6;
         private Button button1;
+        private ComboBox comboBox1;
+        private ComboBox comboBox2;
+        private ComboBox comboBox3;
+        private ComboBox comboBox4;
+        private ComboBox comboBox5;
     }
 }

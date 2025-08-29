@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             txtCode = new TextBox();
             label1 = new Label();
             button1 = new Button();
@@ -35,6 +36,7 @@
             label2 = new Label();
             label3 = new Label();
             button3 = new Button();
+            button4 = new Button();
             SuspendLayout();
             // 
             // txtCode
@@ -44,9 +46,8 @@
             txtCode.Location = new Point(130, 42);
             txtCode.Multiline = true;
             txtCode.Name = "txtCode";
-            txtCode.ReadOnly = true;
             txtCode.ScrollBars = ScrollBars.Vertical;
-            txtCode.Size = new Size(266, 159);
+            txtCode.Size = new Size(311, 685);
             txtCode.TabIndex = 0;
             // 
             // label1
@@ -85,7 +86,7 @@
             label2.BackColor = SystemColors.Info;
             label2.Font = new Font("Segoe UI", 15.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label2.ForeColor = Color.Red;
-            label2.Location = new Point(439, 51);
+            label2.Location = new Point(521, 78);
             label2.Name = "label2";
             label2.Size = new Size(139, 30);
             label2.TabIndex = 4;
@@ -94,7 +95,7 @@
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(486, 24);
+            label3.Location = new Point(521, 42);
             label3.Name = "label3";
             label3.Size = new Size(36, 15);
             label3.TabIndex = 5;
@@ -102,19 +103,33 @@
             // 
             // button3
             // 
-            button3.Location = new Point(463, 97);
+            button3.Location = new Point(521, 141);
             button3.Name = "button3";
             button3.Size = new Size(92, 40);
             button3.TabIndex = 6;
-            button3.Text = "Settings";
+            button3.Text = "COM config";
             button3.UseVisualStyleBackColor = true;
             button3.Click += button3_Click;
+            // 
+            // button4
+            // 
+            button4.BackColor = Color.FromArgb(192, 255, 255);
+            button4.Image = (Image)resources.GetObject("button4.Image");
+            button4.ImageAlign = ContentAlignment.MiddleLeft;
+            button4.Location = new Point(521, 214);
+            button4.Name = "button4";
+            button4.Size = new Size(92, 40);
+            button4.TabIndex = 7;
+            button4.Text = "Delete";
+            button4.UseVisualStyleBackColor = false;
+            button4.Click += button4_Click;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(609, 302);
+            ClientSize = new Size(795, 805);
+            Controls.Add(button4);
             Controls.Add(button3);
             Controls.Add(label3);
             Controls.Add(label2);
@@ -137,5 +152,6 @@
         private Label label2;
         private Label label3;
         private Button button3;
+        private Button button4;
     }
 }
