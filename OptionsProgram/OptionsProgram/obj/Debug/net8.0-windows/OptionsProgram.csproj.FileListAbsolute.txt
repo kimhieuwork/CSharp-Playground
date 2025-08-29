@@ -1,0 +1,17 @@
+C:\Users\1\source\repos\CSharp-Playground\OptionsProgram\OptionsProgram\bin\Debug\net8.0-windows\OptionsProgram.exe
+C:\Users\1\source\repos\CSharp-Playground\OptionsProgram\OptionsProgram\bin\Debug\net8.0-windows\OptionsProgram.deps.json
+C:\Users\1\source\repos\CSharp-Playground\OptionsProgram\OptionsProgram\bin\Debug\net8.0-windows\OptionsProgram.runtimeconfig.json
+C:\Users\1\source\repos\CSharp-Playground\OptionsProgram\OptionsProgram\bin\Debug\net8.0-windows\OptionsProgram.dll
+C:\Users\1\source\repos\CSharp-Playground\OptionsProgram\OptionsProgram\bin\Debug\net8.0-windows\OptionsProgram.pdb
+C:\Users\1\source\repos\CSharp-Playground\OptionsProgram\OptionsProgram\obj\Debug\net8.0-windows\OptionsProgram.Form1.resources
+C:\Users\1\source\repos\CSharp-Playground\OptionsProgram\OptionsProgram\obj\Debug\net8.0-windows\OptionsProgram.csproj.GenerateResource.cache
+C:\Users\1\source\repos\CSharp-Playground\OptionsProgram\OptionsProgram\obj\Debug\net8.0-windows\OptionsProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\CSharp-Playground\OptionsProgram\OptionsProgram\obj\Debug\net8.0-windows\OptionsProgram.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\CSharp-Playground\OptionsProgram\OptionsProgram\obj\Debug\net8.0-windows\OptionsProgram.AssemblyInfo.cs
+C:\Users\1\source\repos\CSharp-Playground\OptionsProgram\OptionsProgram\obj\Debug\net8.0-windows\OptionsProgram.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\CSharp-Playground\OptionsProgram\OptionsProgram\obj\Debug\net8.0-windows\OptionsProgram.sourcelink.json
+C:\Users\1\source\repos\CSharp-Playground\OptionsProgram\OptionsProgram\obj\Debug\net8.0-windows\OptionsProgram.dll
+C:\Users\1\source\repos\CSharp-Playground\OptionsProgram\OptionsProgram\obj\Debug\net8.0-windows\refint\OptionsProgram.dll
+C:\Users\1\source\repos\CSharp-Playground\OptionsProgram\OptionsProgram\obj\Debug\net8.0-windows\OptionsProgram.pdb
+C:\Users\1\source\repos\CSharp-Playground\OptionsProgram\OptionsProgram\obj\Debug\net8.0-windows\OptionsProgram.genruntimeconfig.cache
+C:\Users\1\source\repos\CSharp-Playground\OptionsProgram\OptionsProgram\obj\Debug\net8.0-windows\ref\OptionsProgram.dll

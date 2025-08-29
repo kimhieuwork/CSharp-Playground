@@ -1,0 +1,15 @@
+C:\Users\1\source\repos\CSharp-Playground\short_hand_if_else\short_hand_if_else\bin\Debug\net8.0\short_hand_if_else.exe
+C:\Users\1\source\repos\CSharp-Playground\short_hand_if_else\short_hand_if_else\bin\Debug\net8.0\short_hand_if_else.deps.json
+C:\Users\1\source\repos\CSharp-Playground\short_hand_if_else\short_hand_if_else\bin\Debug\net8.0\short_hand_if_else.runtimeconfig.json
+C:\Users\1\source\repos\CSharp-Playground\short_hand_if_else\short_hand_if_else\bin\Debug\net8.0\short_hand_if_else.dll
+C:\Users\1\source\repos\CSharp-Playground\short_hand_if_else\short_hand_if_else\bin\Debug\net8.0\short_hand_if_else.pdb
+C:\Users\1\source\repos\CSharp-Playground\short_hand_if_else\short_hand_if_else\obj\Debug\net8.0\short_hand_if_else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\CSharp-Playground\short_hand_if_else\short_hand_if_else\obj\Debug\net8.0\short_hand_if_else.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\CSharp-Playground\short_hand_if_else\short_hand_if_else\obj\Debug\net8.0\short_hand_if_else.AssemblyInfo.cs
+C:\Users\1\source\repos\CSharp-Playground\short_hand_if_else\short_hand_if_else\obj\Debug\net8.0\short_hand_if_else.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\CSharp-Playground\short_hand_if_else\short_hand_if_else\obj\Debug\net8.0\short_hand_if_else.sourcelink.json
+C:\Users\1\source\repos\CSharp-Playground\short_hand_if_else\short_hand_if_else\obj\Debug\net8.0\short_hand_if_else.dll
+C:\Users\1\source\repos\CSharp-Playground\short_hand_if_else\short_hand_if_else\obj\Debug\net8.0\refint\short_hand_if_else.dll
+C:\Users\1\source\repos\CSharp-Playground\short_hand_if_else\short_hand_if_else\obj\Debug\net8.0\short_hand_if_else.pdb
+C:\Users\1\source\repos\CSharp-Playground\short_hand_if_else\short_hand_if_else\obj\Debug\net8.0\short_hand_if_else.genruntimeconfig.cache
+C:\Users\1\source\repos\CSharp-Playground\short_hand_if_else\short_hand_if_else\obj\Debug\net8.0\ref\short_hand_if_else.dll
