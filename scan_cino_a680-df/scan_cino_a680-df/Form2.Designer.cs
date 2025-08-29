@@ -127,7 +127,7 @@
             // comboBox3
             // 
             comboBox3.FormattingEnabled = true;
-            comboBox3.Items.AddRange(new object[] { "4", "5", "6", "7", "8" });
+            comboBox3.Items.AddRange(new object[] { "5", "6", "7", "8" });
             comboBox3.Location = new Point(133, 166);
             comboBox3.Name = "comboBox3";
             comboBox3.Size = new Size(168, 23);

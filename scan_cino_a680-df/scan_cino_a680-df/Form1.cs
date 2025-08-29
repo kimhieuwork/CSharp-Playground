@@ -6,7 +6,7 @@ namespace scan_cino_a680_df
 {
     public partial class Form1 : Form
     {
-        private SerialPort serialPort;//= new SerialPort("COM1",115200,Parity.None,);
+        public SerialPort serialPort = new SerialPort("COM1",115200,Parity.None,8,StopBits.One);
         private string filePath = "scanned_code.txt"; //du lieu quet duoc
         private bool isConnected = false;
         public Form1()
@@ -20,12 +20,12 @@ namespace scan_cino_a680_df
         private void Form1_Load()
         {
             //Cau hinh cong COM
-            serialPort = new SerialPort();
-            serialPort.PortName = "COM1"; // Chinh theo cong tren may scan
-            serialPort.BaudRate = 115200; // toc do baud, check device manager
-            serialPort.DataBits = 8;
-            serialPort.Parity = Parity.None;
-            serialPort.StopBits = StopBits.One;
+            //serialPort = new SerialPort();
+            //serialPort.PortName = "COM1"; // Chinh theo cong tren may scan
+            //serialPort.BaudRate = 115200; // toc do baud, check device manager
+            //serialPort.DataBits = 8;
+            //serialPort.Parity = Parity.None;
+            //serialPort.StopBits = StopBits.One;
 
             serialPort.DataReceived += SerialPort_DataReceived;
         }
@@ -102,7 +102,7 @@ namespace scan_cino_a680_df
 
         private void button3_Click(object sender, EventArgs e)
         {
-            Form2 form2 = new Form2();
+            Form2 form2 = new Form2(this);
             form2.Show();
         }
 
