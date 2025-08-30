@@ -1730,25 +1730,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\1\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\tdh\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\1\\source\\repos\\CSharp-Playground\\scan_cino_a680-df\\scan_cino_a680-df\\scan_cino_a680-df.csproj",
+      "projectUniqueName": "C:\\Users\\tdh\\Desktop\\CSharp-Playground\\scan_cino_a680-df\\scan_cino_a680-df\\scan_cino_a680-df.csproj",
       "projectName": "scan_cino_a680-df",
-      "projectPath": "C:\\Users\\1\\source\\repos\\CSharp-Playground\\scan_cino_a680-df\\scan_cino_a680-df\\scan_cino_a680-df.csproj",
-      "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\1\\source\\repos\\CSharp-Playground\\scan_cino_a680-df\\scan_cino_a680-df\\obj\\",
+      "projectPath": "C:\\Users\\tdh\\Desktop\\CSharp-Playground\\scan_cino_a680-df\\scan_cino_a680-df\\scan_cino_a680-df.csproj",
+      "packagesPath": "C:\\Users\\tdh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tdh\\Desktop\\CSharp-Playground\\scan_cino_a680-df\\scan_cino_a680-df\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tdh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1806,7 +1804,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

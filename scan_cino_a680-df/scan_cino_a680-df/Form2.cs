@@ -32,16 +32,31 @@ namespace scan_cino_a680_df
             }
             try
             {
-                //Su dung .SelectedItem.ToString() de lay gia tri chuoi
-                _form1.serialPort.PortName = comboBox1.SelectedIndex.ToString(); // Chinh theo cong tren may scan
-                _form1.serialPort.BaudRate = int.Parse(comboBox2.SelectedIndex.ToString()); // toc do baud, check device manager
-                _form1.serialPort.DataBits = int.Parse(comboBox3.SelectedIndex.ToString());
+                // Kiem tra xem serialPort da duoc khoi tao chua
+                if (_form1?.serialPort == null)
+                {
+                    MessageBox.Show("Serial Port is not initialized in Form1.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
+                }
+
+                //Su dung .SelectedItem.ToString() de lay gia tri chuoi, them toan tu '?' de kiem tra null va su dung an toan
+                _form1.serialPort.PortName = comboBox1.SelectedItem?.ToString(); // Chinh theo cong tren may scan
+                _form1.serialPort.BaudRate = int.Parse(comboBox2.SelectedItem?.ToString()); // toc do baud, check device manager
+                _form1.serialPort.DataBits = int.Parse(comboBox3.SelectedItem?.ToString());
 
                 //chuyen doi chuoi sang enum cho Parity va Stopbits
-                string selectedParity = comboBox4.SelectedIndex.ToString();
-                _form1.serialPort.Parity = (Parity)Enum.Parse(typeof(Parity), selectedParity);
-                string selectedStopBits = comboBox5.SelectedIndex.ToString();
-                _form1.serialPort.StopBits = (StopBits)Enum.Parse(typeof (StopBits), selectedStopBits);
+                string selectedParity = comboBox4.SelectedItem?.ToString();
+                if (selectedParity != null)
+                {
+                    _form1.serialPort.Parity = (Parity)Enum.Parse(typeof(Parity), selectedParity);
+                }
+
+                string selectedStopBits = comboBox5.SelectedItem?.ToString();
+                if (selectedStopBits != null)
+                {
+                    _form1.serialPort.StopBits = (StopBits)Enum.Parse(typeof(StopBits), selectedStopBits);
+                }
+
                 // sau khi gan, dong form 2 va display form 1
                 _form1.Show();
                 this.Close();

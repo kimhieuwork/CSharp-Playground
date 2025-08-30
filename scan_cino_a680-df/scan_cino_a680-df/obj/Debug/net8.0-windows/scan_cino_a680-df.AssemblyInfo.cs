@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("scan_cino_a680-df")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c530cb4f3b98afab118628565daaefeae0d8db38")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d397c4c6f7b00a62410b048ffd6239c5e7a7026")]
 [assembly: System.Reflection.AssemblyProductAttribute("scan_cino_a680-df")]
 [assembly: System.Reflection.AssemblyTitleAttribute("scan_cino_a680-df")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
